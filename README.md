@@ -130,10 +130,10 @@ materials — список материалов
 
 ---
 
-##📁 Структура репозитория
+##  📁 Структура репозитория
 
 ```bash
-## n8n-ai-curriculum-builder/
+n8n-ai-curriculum-builder/
 ├── README.md                    # Этот файл
 ├── LICENSE                      # Лицензия MIT
 ├── workflows/                   # Экспортированные воркфлоу (.json)

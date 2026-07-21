@@ -146,12 +146,12 @@ n8n-ai-curriculum-builder/
 ## 🔧 Настройка окружения
 
 В n8n используйте переменные окружения для чувствительных данных:
-env
-TELEGRAM_BOT_TOKEN=your_bot_token
-TELEGRAM_METHODIST_CHAT_ID=123456789
-TELEGRAM_MANAGER_CHAT_ID=987654321
-GIGACHAT_API_KEY=your_api_key
-GOOGLE_SHEETS_DOCUMENT_ID=your_document_id
+**TELEGRAM_BOT_TOKEN** = your_bot_token
+**TELEGRAM_METHODIST_CHAT_ID** = 123456789
+**TELEGRAM_MANAGER_CHAT_ID** = 987654321
+**GIGACHAT_API_KEY** = your_api_key
+**GOOGLE_SHEETS_DOCUMENT_ID** = your_document_id
+
 ---
 
 ## 🐛 Устранение неполадок
@@ -184,8 +184,8 @@ Contributions are welcome! Следуйте CONTRIBUTING.md.
 ---
 
 ## 📬 Контакты
-Автор: [Ваше имя]
+Автор: [DENISOV-SERGEI]
 
-Email: [ваш email]
+Email: [denisov.sergy@gmail.com]
 
-Telegram: [ссылка на канал]
+Telegram: [(https://t.me/PyeBuTT)]

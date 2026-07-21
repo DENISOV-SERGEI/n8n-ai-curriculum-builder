@@ -106,7 +106,7 @@ materials — список материалов
 
 ## Workflow 2 — Контроль материалов
 
-Ежедневно в 10:00 → Чтение CoursePlan → Фильтр (загружено = false) → Группировка → Telegram
+Ежедневно в 09:00 → Чтение CoursePlan → Фильтр (загружено = false) → Группировка → Telegram
 Методист получает структурированное сообщение со списком недостающих материалов.
 
 ---
@@ -132,7 +132,7 @@ materials — список материалов
 
 ##  📁 Структура репозитория
 
-```bash
+```
 n8n-ai-curriculum-builder/
 ├── README.md                    # Этот файл
 ├── LICENSE                      # Лицензия MIT
@@ -145,12 +145,14 @@ n8n-ai-curriculum-builder/
 
 ## 🔧 Настройка окружения
 
+```
 В n8n используйте переменные окружения для чувствительных данных:
-**TELEGRAM_BOT_TOKEN** = your_bot_token
-**TELEGRAM_METHODIST_CHAT_ID** = 123456789
-**TELEGRAM_MANAGER_CHAT_ID** = 987654321
-**GIGACHAT_API_KEY** = your_api_key
-**GOOGLE_SHEETS_DOCUMENT_ID** = your_document_id
+TELEGRAM_BOT_TOKEN = your_bot_token
+TELEGRAM_METHODIST_CHAT_ID = 123456789
+TELEGRAM_MANAGER_CHAT_ID = 987654321
+GIGACHAT_API_KEY = your_api_key
+GOOGLE_SHEETS_DOCUMENT_ID = your_document_id
+```
 
 ---
 

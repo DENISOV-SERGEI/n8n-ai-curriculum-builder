@@ -132,13 +132,15 @@ materials — список материалов
 
 ##📁 Структура репозитория
 
-## n8n-ai-curriculum-builder/
+```bash
+**n8n-ai-curriculum-builder/**
 ├── README.md                    # Этот файл
 ├── LICENSE                      # Лицензия MIT
 ├── workflows/                   # Экспортированные воркфлоу (.json)
 ├── docs/                        # Подробная документация
 ├── google-sheets/               # Шаблоны таблиц
 └── examples/                    # Примеры входных данных
+```
 ---
 
 ## 🔧 Настройка окружения
